@@ -11,7 +11,7 @@ navbar:
   home: ホーム
   download: ダウンロード
   features: 機能
-  story: The Story
+  story: ストーリー
   specs: 仕様
   roadmap: ロードマップ
   support: サポート
@@ -33,7 +33,7 @@ index_page:
     title: TurtleCoin.lol - 友人や企業に簡単で速く、楽しく送金する方法である
 
   # banner section
-  banner_is_fast: TurtleCoinは早い
+  banner_is_fast: TurtleCoinは速い
   banner_is_easy: TurtleCoinは使いやすい
   banner_is_safe: TurtleCoinは安全
 　banner_one_liner: Turtlecoinは友人や企業に簡単で速く、楽しく送金する方法である。
@@ -48,24 +48,24 @@ index_page:
   download_ton_chan: TonChanをダウンロード
 
   # fun facts section
-  fun_facts_title: Fun Turtle Facts
-  fun_facts_1: TurtleCoin has a 30 second block time, which means transactions confirm faster.
-  fun_facts_2: TurtleCoin has a private blockchain, nobody sees your money except you.
-  fun_facts_3: You can restore a deleted TurtleCoin wallet with your view key and spend key.
+  fun_facts_title: Turtlecoinの豆知恵
+  fun_facts_1: TurtleCoinのブロックタイムは30秒である。これはトランザクションがより速く確認されることを示します。
+  fun_facts_2: TurtleCoinはプライベートなブロクチェーンを持ち、自分自身以外の誰にも手持ちのお金を知られることがありません。
+  fun_facts_3: TuttleCoinウォレットは自分のview keyとspend keyを使って復元できます。
 
   # why section
-  why_title: Why TurtleCoin?
-  why_1_title: Fast Transactions
-  why_1: TurtleCoin is creating blocks every 30 seconds, as opposed to every 10 minutes. Your money travels 20x faster on TurtleCoin than on Bitcoin or BitcoinCash.
-  why_2_title: Privacy
-  why_2: Every transaction is private, by default.
-  why_3_title: Easy To Use
-  why_3: We support almost every OS, even on mobile you can <a href="https://turtlecoin.lol/wallet">make a secured paper-wallet for free</a>, and get started with TurtleCoin in under 5 minutes.
-  why_4_title: Easy To Mine
-  why_4: TurtleCoin comes with its own basic CPU miner, but you can also use other mining software you're used to if you'd rather use GPU's or mining pools. Check out the <a href="https://docs.turtlecoin.lol/guides/mining/mining">mining guide</a>.
+  why_title: なんでTurtleCoinを使う？
+  why_1_title: 高速なトランザクション
+  why_1: TurtleCoinのブロックは10分より30秒ごとに生成されます。BitCoinやBitCoinCashよりお金が20倍速く送金相手に送られます。
+  why_2_title: プライバシー
+  why_2: 各トランザクションは既定的にプライベートである。
+  why_3_title: 使いやすい
+  why_3: TurtleCoinはほぼ全部のシステムに対応しております。携帯からでさえも<a href="https://turtlecoin.lol/wallet">無料に安全なペーパーウオレットを作成し</a>, 5分以内にTurtleCoinを使い始めることができます。
+  why_4_title: 簡単にマイニングを行える
+  why_4: TurtleCoinは基本なCPUマイニングソフトウェアを付属しています。GPUやマイニングプールを使用する場合は、他のマイニングソフトウェアを使用することもできます。<a href="https://docs.turtlecoin.lol/guides/mining/mining">マイニング手順</a>をご確認ください。
   why_5_title: Community
   why_5: The TurtleCoin community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our <a href="http://chat.turtlecoin.lol">Discord Chat</a>.
-  why_6_title: Support
+  why_6_title: サポート
   why_6: We are growing a community of developers and testers in our <a href="http://meta.turtlecoin.lol">GitHub meta-forum</a>. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
 
   # the story section
@@ -120,7 +120,7 @@ brand_page:
   why: Why Guidelines?
   why_explanation: We firmly believe that anyone should have access to create wonderful things in and with TurtleCoin. For that purpose, a set of guidelines has been created to keep a cohesive and strong, yet <strong>friendly and easy to approach</strong> way for people to express their ideas with the TurtleCoin brand.
   download: ダウンロード
-  manual: TurtleCoin Brand Manual
+  manual: TurtleCoinブランド指南
   latest_version: 最新バージョン
   download_assets: アセットをダウンロード
   contribute_on_github: GitHubで貢献しまょう
